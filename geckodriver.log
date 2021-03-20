@@ -1,0 +1,487 @@
+1616238487095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileh6mMx9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616238493278	Marionette	INFO	Listening on port 50336
+1616238493537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616238499992	Marionette	INFO	Stopped listening on port 50336
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616239034926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofile8B4R8G"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616239039351	Marionette	INFO	Listening on port 50775
+1616239039784	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616239057831	Marionette	INFO	Stopped listening on port 50775
+1616239106101	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileahtjsP"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616239110399	Marionette	INFO	Listening on port 50916
+1616239110951	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616239166690	Marionette	INFO	Stopped listening on port 50916
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\wicto\\AppData\\Local\\Temp\\rust_mozprofileq4kYtZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616239171164	Marionette	INFO	Listening on port 51050
+1616239171364	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616239361214	Marionette	INFO	Stopped listening on port 51050
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\wicto\\AppData\\Local\\Temp\\rust_mozprofilemunwqR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616239326435	Marionette	INFO	Listening on port 51243
+1616239326615	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1616239370734	Marionette	INFO	Stopped listening on port 51243
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616239502667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileled7vR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616239507662	Marionette	INFO	Listening on port 51450
+1616239508062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616239527456	Marionette	INFO	Stopped listening on port 51450
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616239548867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofilejHStjH"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616239553621	Marionette	INFO	Listening on port 51572
+1616239553714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616239573802	Marionette	INFO	Stopped listening on port 51572
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616239603046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileiP1VQ5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616239607508	Marionette	INFO	Listening on port 51695
+1616239607906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616239627939	Marionette	INFO	Stopped listening on port 51695
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616239676292	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofile3fDgus"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616239680840	Marionette	INFO	Listening on port 51831
+1616239681175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616239698484	Marionette	INFO	Stopped listening on port 51831
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616239767337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofile43rym4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616239771987	Marionette	INFO	Listening on port 51975
+1616239772207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616239789318	Marionette	INFO	Stopped listening on port 51975
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616239809570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofile8lTxDe"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616239813794	Marionette	INFO	Listening on port 52094
+1616239813906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616239834469	Marionette	INFO	Stopped listening on port 52094
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616239910745	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileegkFsK"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616239915375	Marionette	INFO	Listening on port 52245
+1616239915595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616239933094	Marionette	INFO	Stopped listening on port 52245
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616239945892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileFHbtzg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616239950616	Marionette	INFO	Listening on port 52362
+1616239950753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616239974449	Marionette	INFO	Stopped listening on port 52362
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616240105129	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileqE5fG8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616240109177	Marionette	INFO	Listening on port 52553
+1616240109334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616240152204	Marionette	INFO	Stopped listening on port 52553
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616241559322	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofiley3wI7T"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616241563786	Marionette	INFO	Listening on port 53433
+1616241564160	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616241618499	Marionette	INFO	Stopped listening on port 53433
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616241623103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileRRcPtA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616241627317	Marionette	INFO	Listening on port 53563
+1616241627443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616241709300	Marionette	INFO	Stopped listening on port 53563
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\wicto\\AppData\\Local\\Temp\\rust_mozprofilewUtazp"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616241664587	Marionette	INFO	Listening on port 53681
+1616241665034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616241708364	Marionette	INFO	Stopped listening on port 53681
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616241716198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileBmwCVz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616241720876	Marionette	INFO	Listening on port 53807
+1616241721026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616241747603	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616241753512	Marionette	INFO	Stopped listening on port 53807
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616241772819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofilegIWUx4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616241777545	Marionette	INFO	Listening on port 53929
+1616241777662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616241813195	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616241817214	Marionette	INFO	Stopped listening on port 53929
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1616241951388	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofilexLV3zM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616241956337	Marionette	INFO	Listening on port 54122
+1616241961153	Marionette	INFO	Stopped listening on port 54122
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616242042540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofilelPzDOA"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616242047542	Marionette	INFO	Listening on port 54221
+1616242047906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1616242095559	Marionette	INFO	Stopped listening on port 54221
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616242103931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofilesqyHsg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616242108302	Marionette	INFO	Listening on port 54313
+1616242108752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616242213485	Marionette	INFO	Stopped listening on port 54313
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616242219850	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofile1kFYkv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616242224459	Marionette	INFO	Listening on port 54419
+1616242224721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616242330200	Marionette	INFO	Stopped listening on port 54419
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616242581709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofiledTSJex"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616242586181	Marionette	INFO	Listening on port 54675
+1616242586612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: undefined
+1616242764375	Marionette	INFO	Stopped listening on port 54675
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rs\\wicto\\AppData\\Local\\Temp\\rust_mozprofileTUBh22"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616242754929	Marionette	INFO	Listening on port 54907
+1616242755381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616242773818	Marionette	INFO	Stopped listening on port 54907
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616242990282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileY1gHNN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616242994097	Marionette	INFO	Listening on port 55157
+1616242994526	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616243220780	Marionette	INFO	Stopped listening on port 55157
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616243986059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileclDhAT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616243990022	Marionette	INFO	Listening on port 56203
+1616243990275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616244210890	Marionette	INFO	Stopped listening on port 56203
+1616246313465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileLN4Lbg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616246315947	Marionette	INFO	Listening on port 57656
+1616246316119	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616246555414	Marionette	INFO	Stopped listening on port 57656
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616247022358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofilekGzJx5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616247024740	Marionette	INFO	Listening on port 58180
+1616247025005	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616247733665	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileBmyc9g"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616247736189	Marionette	INFO	Listening on port 58785
+1616247736334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616247780888	Marionette	INFO	Stopped listening on port 58785
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616247807431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileWWSIKJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616247809805	Marionette	INFO	Listening on port 58932
+1616247810113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616247901555	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1616247916443	Marionette	INFO	Stopped listening on port 58932
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616248180206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileMxKmX9"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616248182461	Marionette	INFO	Listening on port 59259
+1616248182869	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616248414374	Marionette	INFO	Stopped listening on port 59259
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616248425605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileVfxpaU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616248427991	Marionette	INFO	Listening on port 59535
+1616248428273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616248614392	Marionette	INFO	Stopped listening on port 59535
+1616248869128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileXvEVpo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616248871745	Marionette	INFO	Listening on port 59877
+1616248871796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616249039964	Marionette	INFO	Stopped listening on port 59877
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616249371286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileZDv1Au"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616249373816	Marionette	INFO	Listening on port 60233
+1616249373946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616249492334	Marionette	INFO	Stopped listening on port 60233
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616249577774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileLLsgMs"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616249580301	Marionette	INFO	Listening on port 60456
+1616249580467	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1616249875427	Marionette	INFO	Stopped listening on port 60456
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616249978839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileRsD6UJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616249981331	Marionette	INFO	Listening on port 60785
+1616249981510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1616250185212	Marionette	INFO	Stopped listening on port 60785
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616250195283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileqYTEbQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616250197739	Marionette	INFO	Listening on port 61039
+1616250197946	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1616250483321	Marionette	INFO	Stopped listening on port 61039
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616250594495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofilehWTvGn"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616250596760	Marionette	INFO	Listening on port 61347
+1616250597182	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616250721166	Marionette	INFO	Stopped listening on port 61347
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616250784411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileFB17L8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616250786735	Marionette	INFO	Listening on port 61558
+1616250787116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616250932840	Marionette	INFO	Stopped listening on port 61558
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616251120002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofileCMz94V"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616251122435	Marionette	INFO	Listening on port 61838
+1616251122668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 225: uncaught exception: TagError: adsbygoogle.push() error: Fluid responsive ads must be at least 250px wide: availableWidth=0
+1616251352501	Marionette	INFO	Stopped listening on port 61838
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616257817822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\wicto\\AppData\\Local\\Temp\\rust_mozprofile63PGck"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616257823301	Marionette	INFO	Listening on port 50086
+1616257823704	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616257837205	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616257870350	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616257885996	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616257901604	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616257948561	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616257964349	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616257980073	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1616257999922	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616258015669	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1616258046769	Marionette	INFO	Stopped listening on port 50086
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 573: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

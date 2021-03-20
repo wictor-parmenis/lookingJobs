@@ -1,0 +1,194 @@
+__________________________________________________
+
+__________________________________________________
+
+
+
+__________________________________________________
+
+__________________________________________________
+
+
+
+__________________________________________________
+> Cursando os últimos períodos de: Ciência da Computação, Sistemas de Informação, Engenharia ou similares;
+> Contato com frameworks/bibliotecas Javascript (ReactJs/Redux, TypeScript são diferenciais);
+> Conhecimentos em HTML 5, CSS3, Pré-processadores CSS;
+> Conhecimentos de Git;
+> Inglês intermediário.
+__________________________________________________
+
+
+
+__________________________________________________
+Diferenciais:
+> Conhecimentos em Programação Orientada a Objetos (POO);
+> Conhecimentos em Java e/ou Python;
+> Conhecimento de bancos relacionais e/ou não-relacionais;
+__________________________________________________
+
+
+
+__________________________________________________
+O que esperamos de você:
+Experiência em sistemas baseados em Vue.js 2+
+Fluência em HTML5, CSS3 e Javascript ES6
+Habilidade em trabalhar com Vuex, Vue Router
+Fluência no consumo de APIs REST/ful
+Excelente comunicação escrita
+Bom relacionamento interpessoal
+Versionamento GIT
+__________________________________________________
+
+
+
+__________________________________________________
+Contará muito a seu favor se você...
+Conhecer bem boas práticas SOLID
+Tiver facilidade em apresentar ideias
+Entender bem e aplicar padrões (REST, PSR, etc)
+__________________________________________________
+
+
+
+__________________________________________________
+
+__________________________________________________
+
+
+
+__________________________________________________
+Você precisa ter:
+__________________________________________________
+
+
+
+__________________________________________________
+
+__________________________________________________
+
+
+
+__________________________________________________
+- Conhecimentos em desenvolvimento web - Javascript, HTML5 e CSS
+- Conhecimentos em versionamento de código (Git)
+- Familiaridade com protocolo HTTP e interações com APIs REST
+__________________________________________________
+
+
+
+__________________________________________________
+
+__________________________________________________
+
+
+
+__________________________________________________
+ReactJS
+Typescript
+Hooks
+Styled Components
+Redux
+__________________________________________________
+
+
+
+__________________________________________________
+Requisitos Adicionais:
+*Conhecimento básico em PHP;
+*Experiência com Gulp;
+*Conhecimento em VueJS;
+*Participação ativa no GitHub.
+*+100pts no StackOverflow.
+*Gostar de rock n’ roll!
+__________________________________________________
+
+
+
+__________________________________________________
+
+__________________________________________________
+
+
+
+__________________________________________________
+Por que uma vaga só para mulheres?
+__________________________________________________
+
+
+
+__________________________________________________
+O mercado com menos presença feminina é o de tecnologia, ainda temos muito o que discutir e avançar nesse tema, mas queremos dar os primeiros passos para nos tornamos uma empresa mais diversa pois acreditamos que a diversidade é fundamental para uma sociedade que deseja ter sucesso.
+__________________________________________________
+
+
+
+__________________________________________________
+Superior completo ou cursando em área da computação (Análise e desenvolvimento de sistemas, Sistemas da informação e afins) será um diferencial;
+Conhecimento em HTML, CSS, JS;
+Conhecimento em algum Framework JS (Angular, Vue ou React);
+Conhecimento em ferramenta de prototipação (Figma ou Adobe XD);
+Ser criativo;
+Dispor de boa escrita;
+Ser organizado;
+Dispor de boa comunicação e trabalhar bem em equipe;
+Lidar com gestão de projetos;
+__________________________________________________
+
+
+
+__________________________________________________
+Serão pontos diferenciais: Possuir PS Illustrator básico e noções básicas de Designer Gráfico.
+__________________________________________________
+
+
+
+__________________________________________________
+Desenvolver interfaces para aplicativos web, utilizando as melhores práticas e entregar código limpo e funcional;
+__________________________________________________
+
+
+
+__________________________________________________
+Trabalhando de forma independente, com pouca supervisão;
+__________________________________________________
+
+
+
+__________________________________________________
+
+__________________________________________________
+
+
+
+__________________________________________________
+HTML, CSS, Javascript, Jquery, Bootstrap4, Adobe XD, InDesign, Illustrator, Photoshop. Microsoft Excel, Word, Google Drive (sincronização), Google planilhas, Docs, Apresentações.
+__________________________________________________
+
+
+
+__________________________________________________
+
+__________________________________________________
+
+
+
+__________________________________________________
+
+__________________________________________________
+
+
+
+__________________________________________________
+Requisitos: HTML, CSS, JavaScript, jQuery e Wordpress(opcional).
+Experiência com HTML.
+__________________________________________________
+
+
+
+__________________________________________________
+
+__________________________________________________
+
+
+
