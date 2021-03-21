@@ -1,0 +1,4 @@
+env
+find_subjects/*.DS_Store
+find_subjects/*.pyc
+__pycache__
